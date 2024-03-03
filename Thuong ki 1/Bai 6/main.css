@@ -1,0 +1,19 @@
+.background {
+    background-image: url(Univers.jpg);
+    padding: 30px;
+    display: flex;
+    margin: 0px auto;
+    justify-content: center;
+    max-width: 560px;
+}
+.text {
+    color: white;
+    text-align: center;
+    margin: 0px auto;
+    justify-content: center;
+    max-width: 960px;
+}
+.text1{
+    color: yellow;
+    font-size: xx-small;
+}
